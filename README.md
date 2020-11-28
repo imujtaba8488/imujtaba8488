@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**imujtaba8488/imujtaba8488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Asalmu Alykum, iMujtaba Nazki here
 
 Here are some ideas to get you started:
 
@@ -14,3 +11,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Latest pub.dev packages
+
+- im_stepper
+
+- im_animations
+
+## Connect with Me
+
+[![GitHub](https://github.com/imujtaba8488/showcase/blob/master/icons/github_64px%20b:w.png)](https://github.com/imujtaba8488) [![Twitter](https://github.com/imujtaba8488/showcase/blob/master/icons/twitter_64px%20b:w.png)](https://twitter.com/imujtaba8488)  [![LinkedIn](https://github.com/imujtaba8488/showcase/blob/master/icons/linkedin_64px%20b:w.png)](https://www.linkedin.com/in/imujtaba8488/)  [![Medium](https://github.com/imujtaba8488/showcase/blob/master/icons/medium_64px%20b:w.png)](https://imujtaba8488.medium.com)  [![Instagram](https://github.com/imujtaba8488/showcase/blob/master/icons/insta_64px%20b:w.png)](https://www.instagram.com/imujtaba8488/)  [![Facebook](https://github.com/imujtaba8488/showcase/blob/master/icons/fb_64px%20b:w.png)](https://www.facebook.com/imujtaba8488/)
