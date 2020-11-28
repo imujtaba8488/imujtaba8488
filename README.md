@@ -10,30 +10,17 @@ Fast-forward 15 years, I've had my share to learn a few languages such as Java, 
 
 ## Recent Flutter Packages
 
-* [im_stepper](https://pub.dev/packages/im_stepper)
-A growing collection of stepper and page indicator widgets.
-
-* [im_animations](https://pub.dev/packages/im_animations)
-A growing collection of cool, elegant, efficient and performance-optimized animation widgets.
-
-* [country_currency_chooser](https://pub.dev/packages/country_currency_chooser)
-A simple yet powerful, elegant, customizable, and efficient currency chooser dialog with search support.
-
-* [im_avatar](https://pub.dev/packages/im_avatar)
-A simple to use avatar widget, with support for selecting a new avatar. The avatar shape can be set to circular or square.
-
-* [im_shelf](https://pub.dev/packages/im_shelf)
-A simple and elegant widget to display content such as an image within an animated closable shelf.
-
-* [login_systems](https://pub.dev/packages/login_systems)
-A collection of LoginSystems ready to be used as widgets.
+* [im_stepper](https://pub.dev/packages/im_stepper): A growing collection of stepper and page indicator widgets.
+* [im_animations](https://pub.dev/packages/im_animations): A growing collection of cool, elegant, efficient and performance-optimized animation widgets.
+* [country_currency_chooser](https://pub.dev/packages/country_currency_chooser): A simple yet powerful, elegant, customizable, and efficient currency chooser dialog with search support.
+* [im_avatar](https://pub.dev/packages/im_avatar): A simple to use avatar widget, with support for selecting a new avatar. The avatar shape can be set to circular or square.
+* [im_shelf](https://pub.dev/packages/im_shelf): A simple and elegant widget to display content such as an image within an animated closable shelf.
+* [login_systems](https://pub.dev/packages/login_systems): A collection of LoginSystems ready to be used as widgets.
 
 ## Publications
 
 * [A Noobs' Guide to Darts' Null Safety](https://imujtaba8488.medium.com/darts-null-safety-d2249936163d)
-
 * [Beautiful Page Indicators and Steppers with the im_stepper package](https://imujtaba8488.medium.com/beautiful-page-indicators-and-steppers-with-the-im-stepper-package-8c091cf5364e)
-
 * [Are you having a hard time with Flutter CustomPainter — Part #1?](https://imujtaba8488.medium.com/are-you-having-a-hard-time-with-flutter-custompainter-part-1-ed3f478a210c)
 
 ## Connect with me
