@@ -1,6 +1,16 @@
-# Asalmu Alykum, iMujtaba Nazki here
+# iMujtaba Nazki
 
-Flutter Developer | Content Creator
+__Flutter Developer | Content Creator__
+
+I belong to Srinagar, Jammu and kashmir, India, perhaps a place people may already know. I fell in love with computers, when I first saw a Pentium-I computer back in my college. Although getting things were quite difficult in hometown back then, I still managed to get a Pentium Desktop in 2005. My first computer, and I fell in love with programming. Fast-forward 15 years, I've had my share to learn a few languages such as, Java, C++, etc., I started working with Flutter back in 2017, when it still in beta. Today, it stands as my primary choice of application development.
+
+## Recent Flutter Packages
+
+* im_stepper
+
+* im_animations
+
+* 
 
 ## Connect with me
 
