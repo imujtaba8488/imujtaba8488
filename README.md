@@ -19,7 +19,7 @@ Fast-forward 15 years, I've had my share to learn a few languages such as Java, 
 
 ## Publications
 
-* [A Noobs' Guide to Darts' Null Safety](https://imujtaba8488.medium.com/darts-null-safety-d2249936163d)
+* [Darts' Null Safety](https://imujtaba8488.medium.com/darts-null-safety-d2249936163d)
 * [Beautiful Page Indicators and Steppers with the im_stepper package](https://imujtaba8488.medium.com/beautiful-page-indicators-and-steppers-with-the-im-stepper-package-8c091cf5364e)
 * [Flutter CustomPainter — Part #1?](https://imujtaba8488.medium.com/are-you-having-a-hard-time-with-flutter-custompainter-part-1-ed3f478a210c)
 * [Flutter CustomPainter — Part #2?](https://imujtaba8488.medium.com/are-you-having-a-hard-time-with-flutter-custompainter-part-2-c647e661de38)
