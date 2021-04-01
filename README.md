@@ -1,12 +1,29 @@
 # iMujtaba Nazki
 
-__Flutter Developer | Content Creator__
+__Sr. Flutter Developer | Content Creator__
 
-> Self-taught!
 
-I fell in love with computers when I first saw a Pentium-I computer back at my college. Although getting things were quite difficult in my hometown, I still managed to get a Pentium Desktop in 2005. My first computer and I fell in love with programming.
+Hello! I am Syed Mujtaba Nazki and I am a Flutter Developer. I have been developing professionally for 10+ years but tinkering since a kid.
 
-Fast-forward 15 years, I've had my share to learn a few languages such as Java, C++, etc. I started working with Flutter and Dart back in 2017 when it was still in beta. Today, it is my primary choice for application development.
+I started out with Flutter when it was still in its inception. Since then, it has become my primary choice for Application Development. As of today, I stand with 5+ years of hands-on experience with Flutter and a track record of developing several enterprise level Mobile applications both for Android and iOS platform ranging from a simple time-tracking app to a complex data-driven App. One of my future goals include utilizing the power of Flutter on other Platforms such as Web and Desktop and dive early into Google's upcoming Fuchsia Operating System.
+
+I would like to define myself as a result-driven and accomplished Software Engineer, effective leader and team player with exceptional analytical and critical thinking skills and the important ability to solve complex problems.
+
+## Projects as Freelancer [Employer: Confidential]
+
+Shopping store, Time Tracking, Survey App, Chat, Salary Management, Task Management, File Tracking, etc.
+
+
+## Flutter
+
+* Flutter
+* Dart
+* Firebase
+* RESTful
+* BloC
+* Provider
+* GetX
+* Riverpod
 
 ## Recent Flutter Packages
 
@@ -17,7 +34,7 @@ Fast-forward 15 years, I've had my share to learn a few languages such as Java, 
 * [im_shelf](https://pub.dev/packages/im_shelf): A simple and elegant widget to display content such as an image within an animated closable shelf.
 * [login_systems](https://pub.dev/packages/login_systems): A collection of LoginSystems ready to be used as widgets.
 
-## Publications
+## Articles
 
 * [Darts' Null Safety](https://imujtaba8488.medium.com/darts-null-safety-d2249936163d)
 * [Beautiful Page Indicators and Steppers with the im_stepper package](https://imujtaba8488.medium.com/beautiful-page-indicators-and-steppers-with-the-im-stepper-package-8c091cf5364e)
