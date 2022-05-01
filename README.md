@@ -1,10 +1,12 @@
 # Syed Mujtaba Nazki `[imujtaba8488]`
 
-### **Senior Software Engineer**
+### 💻 **Senior Software Engineer**
 
 I would like to define myself as a result-driven and accomplished Software Engineer, effective leader and team player with exceptional analytical and critical thinking skills and the important ability to solve complex problems.
 
-## Tech Stack
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imujtaba8488&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+## ⚙️ Tech Stack
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp; 
@@ -17,7 +19,7 @@ I would like to define myself as a result-driven and accomplished Software Engin
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp; 
 </div>
 
-## Tools
+## 🛠 Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp; 
@@ -44,15 +46,16 @@ I would like to define myself as a result-driven and accomplished Software Engin
 * [im_shelf](https://pub.dev/packages/im_shelf): A simple and elegant widget to display content such as an image within an animated closable shelf.
 * [login_systems](https://pub.dev/packages/login_systems): A collection of LoginSystems ready to be used as widgets.
 
-## Articles
+## 📝 Articles
 
 * [Darts' Null Safety](https://imujtaba8488.medium.com/darts-null-safety-d2249936163d)
 * [Beautiful Page Indicators and Steppers with the im_stepper package](https://imujtaba8488.medium.com/beautiful-page-indicators-and-steppers-with-the-im-stepper-package-8c091cf5364e)
 * [Flutter CustomPainter — Part #1?](https://imujtaba8488.medium.com/are-you-having-a-hard-time-with-flutter-custompainter-part-1-ed3f478a210c)
 * [Flutter CustomPainter — Part #2?](https://imujtaba8488.medium.com/are-you-having-a-hard-time-with-flutter-custompainter-part-2-c647e661de38)
 
-# My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imujtaba8488&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+## 😆 Programming jokes
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## Connect with me
 
