@@ -2,12 +2,6 @@
 
 ### **Senior Software Engineer**
 
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fimujtaba8488)
-
-Hello! I am Syed Mujtaba Nazki and I am a Flutter Developer. I have been developing professionally for 10+ years but tinkering since a kid.
-
-I started out with Flutter when it was still in its inception. Since then, it has become my primary choice for Application Development. As of today, I stand with 5+ years of hands-on experience with Flutter and a track record of developing several enterprise level Mobile applications both for Android and iOS platform ranging from a simple time-tracking app to a complex data-driven App. One of my future goals include utilizing the power of Flutter on other Platforms such as Web and Desktop and dive early into Google's upcoming Fuchsia Operating System.
-
 I would like to define myself as a result-driven and accomplished Software Engineer, effective leader and team player with exceptional analytical and critical thinking skills and the important ability to solve complex problems.
 
 ## Tech Stack
@@ -34,16 +28,12 @@ I would like to define myself as a result-driven and accomplished Software Engin
    <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="BitBucket" alt="BitBucket" width="40" height="40"/>&nbsp; 
 </div>
 
-## Flutter
-
-* Flutter
-* Dart
-* Firebase
-* RESTful
-* BloC
+## Flutter State Management
 * Provider
-* GetX
 * Riverpod
+* Bloc
+* GetX
+* ScopedModel
 
 ## Recent Flutter Packages
 
@@ -60,6 +50,9 @@ I would like to define myself as a result-driven and accomplished Software Engin
 * [Beautiful Page Indicators and Steppers with the im_stepper package](https://imujtaba8488.medium.com/beautiful-page-indicators-and-steppers-with-the-im-stepper-package-8c091cf5364e)
 * [Flutter CustomPainter — Part #1?](https://imujtaba8488.medium.com/are-you-having-a-hard-time-with-flutter-custompainter-part-1-ed3f478a210c)
 * [Flutter CustomPainter — Part #2?](https://imujtaba8488.medium.com/are-you-having-a-hard-time-with-flutter-custompainter-part-2-c647e661de38)
+
+# My Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imujtaba8488&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## Connect with me
 
