@@ -2,9 +2,13 @@
 
 ### 💻 **Senior Software Engineer**
 
-I would like to define myself as a result-driven and accomplished Software Engineer, effective leader and team player with exceptional analytical and critical thinking skills and the important ability to solve complex problems.
+👋 Hi, 
+
+I'm a result-driven & accomplished Software Engineer, effective leader and team player with exceptional analytical and critical thinking skills and the important ability to solve complex problems.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imujtaba8488&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![Mujtaba's Github Stats](https://github-readme-stats.vercel.app/api?username=imujtaba8488&hide=contribs,prs,commits)
 
 ## ⚙️ Tech Stack
 
@@ -52,11 +56,9 @@ I would like to define myself as a result-driven and accomplished Software Engin
 * [Beautiful Page Indicators and Steppers with the im_stepper package](https://imujtaba8488.medium.com/beautiful-page-indicators-and-steppers-with-the-im-stepper-package-8c091cf5364e)
 * [Flutter CustomPainter — Part #1?](https://imujtaba8488.medium.com/are-you-having-a-hard-time-with-flutter-custompainter-part-1-ed3f478a210c)
 * [Flutter CustomPainter — Part #2?](https://imujtaba8488.medium.com/are-you-having-a-hard-time-with-flutter-custompainter-part-2-c647e661de38)
-
-## 😆 Programming jokes
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ## Connect with me
 
 [![Twitter](https://github.com/imujtaba8488/showcase/blob/master/icons/twitter_64px%20b:w.png)](https://twitter.com/imujtaba8488)  [![LinkedIn](https://github.com/imujtaba8488/showcase/blob/master/icons/linkedin_64px%20b:w.png)](https://www.linkedin.com/in/imujtaba8488/)  [![Medium](https://github.com/imujtaba8488/showcase/blob/master/icons/medium_64px%20b:w.png)](https://imujtaba8488.medium.com)  [![Instagram](https://github.com/imujtaba8488/showcase/blob/master/icons/insta_64px%20b:w.png)](https://www.instagram.com/imujtaba8488/)  [![Facebook](https://github.com/imujtaba8488/showcase/blob/master/icons/fb_64px%20b:w.png)](https://www.facebook.com/imujtaba8488/)
+
+## 😆 Programming jokes
+![Jokes Card](https://readme-jokes.vercel.app/api)
