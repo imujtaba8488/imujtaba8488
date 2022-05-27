@@ -6,9 +6,9 @@
 
 I'm a result-driven & accomplished Software Engineer, effective leader and team player with exceptional analytical and critical thinking skills and the important ability to solve complex problems.
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imujtaba8488&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imujtaba8488&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![Mujtaba's Github Stats](https://github-readme-stats.vercel.app/api?username=imujtaba8488&theme=radical&hide=contribs,prs,commits)
+![Mujtaba's Github Stats](https://github-readme-stats.vercel.app/api?username=imujtaba8488&hide=contribs,prs,commits)
 
 ## ⚙️ Tech Stack
 
